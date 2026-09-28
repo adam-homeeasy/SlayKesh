@@ -10,7 +10,8 @@ Token / tool-call / duration figures are copied from each agent's completion rep
 | 1B | Research | Competitor scan | Sonnet 5 | 101,652 | 31 | 2m 38s | done — 12 brands, B-competitors.md |
 | 1C | Research | Audience & sim benchmarks | Sonnet 5 | 100,361 | 28 | 2m 43s | done — C-audience-benchmarks.md (Semrush: no API units → search volumes estimated) |
 | 2 | Positioning | 3 brand territories | Opus 5.5 | 114,980 | 13 | 5m 03s | done — positioning.md (T1 Lived It, T2 Scalp Ritual, T3 90-Day Plan) |
-| 4a | Simulation | Monte Carlo engine (code) | Sonnet 5 | pending | pending | pending | running |
-| 3.1 | Directions | D1 "Lived It" full plan + sim inputs | Opus 5.5 | pending | pending | pending | running |
-| 3.2 | Directions | D2 "Scalp Ritual" full plan + sim inputs | Opus 5.5 | pending | pending | pending | running |
-| 3.3 | Directions | D3 "90-Day Plan" full plan + sim inputs | Opus 5.5 | pending | pending | pending | running |
+| 4a | Simulation | Monte Carlo engine (code) | Sonnet 5 | n/r | n/r | — | stopped — engine code + tests left in place |
+| 3.1 | Directions | D1 "Lived It" full plan + sim inputs | Opus 5.5 | n/r | n/r | — | stopped by user request (switched to quick pitch) |
+| 3.2 | Directions | D2 "Scalp Ritual" full plan + sim inputs | Opus 5.5 | n/r | n/r | — | stopped by user request (switched to quick pitch) |
+| 3.3 | Directions | D3 "90-Day Plan" full plan + sim inputs | Opus 5.5 | n/r | n/r | — | stopped by user request (switched to quick pitch) |
+| 5 | Pitch | PITCH.md (3 ideas + quick wins) | Opus 5.5 (main session) | — | — | — | done |
