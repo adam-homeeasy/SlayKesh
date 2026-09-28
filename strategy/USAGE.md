@@ -7,5 +7,5 @@ Token / tool-call / duration figures are copied from each agent's completion rep
 |---|---|---|---|---|---|---|---|
 | 0 | Intake | Orchestrator (main session) | Opus 5.5 | — (tracked at end) | — | — | running |
 | 1A | Research | SlayKesh site & channel audit | Sonnet 5 | pending | pending | pending | running |
-| 1B | Research | Competitor scan | Sonnet 5 | pending | pending | pending | running |
-| 1C | Research | Audience & sim benchmarks | Sonnet 5 | pending | pending | pending | running |
+| 1B | Research | Competitor scan | Sonnet 5 | 101,652 | 31 | 2m 38s | done — 12 brands, B-competitors.md |
+| 1C | Research | Audience & sim benchmarks | Sonnet 5 | 100,361 | 28 | 2m 43s | done — C-audience-benchmarks.md (Semrush: no API units → search volumes estimated) |
